@@ -29,7 +29,9 @@ Identificación de interconexiones entre entidades, como actores, películas, ca
 ## 💭 *Colaboracion*
 
 Si deseas mejorar o ampliar el archivo, te invitamos a colaborar de la siguiente manera:
+
 Uso de Recursos : Puedes utilizar e inspirarte en los ejercicios propuestos.
+
 Sugerencias de Mejora : Apreciamos cualquier sugerencia que tengas sobre cómo resolver los ejercicios de una manera más efectiva.
 
-**En resumen, tu participación y aportes son bienvenidos.**
+**Tu participación y aportación son bienvenidos.**
