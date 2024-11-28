@@ -8,22 +8,35 @@ En este repositorio, pueden encontrar los ejercicios resueltos por Mónica Garc�
 ## 💻 *Herramientas utilizadas*
 
 Los ejercicios se han realizado utilizando MySQL Workbench. 
+
 La base de datos empleada ha sido 'Sakila'.
 
 ## ✔ *ObjetivoS*
 
 El objetivo de esta evaluación es comprobar que se han adquirido los conocimientos impartidos sobre SQL.
+
 Conocimientos necesarios
+
 Consultas Básicas
+
 Recuperación de datos básicos.
+
 Filtrado y Agrupación de Datos
+
 Uso de la cláusula WHERE.
+
 Funciones de agregación (por ejemplo, COUNT, AVG).
+
 Uso de GROUP BY y HAVING para filtros y agrupaciones avanzados.
+
 Uniones entre Tablas
+
 Uso de JOIN para combinar datos de diferentes tablas.
+
 Subconsultas
+
 Empleo de subconsultas para abordar problemas complejos. 
+
 Identificación de interconexiones entre entidades, como actores, películas, categorías, etc
 
 ## 💭 *Colaboracion*
